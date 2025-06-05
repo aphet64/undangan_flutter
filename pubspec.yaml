@@ -1,1 +1,10 @@
+name: undangan_flutter
+description: A simple wedding invitation app
 
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.14
